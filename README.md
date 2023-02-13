@@ -28,6 +28,6 @@
 
 
 <div align="center"><br>
-  <h2>MEDIA</h2>
+  <h2>SOCIAL MEDIA</h2>
   <a href="https://www.linkedin.com/in/andr%C3%A9-euflauzino-69b374160/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
