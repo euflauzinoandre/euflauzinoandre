@@ -1,5 +1,5 @@
   <div align="center">
-    <h1>Welcome to my code world!🌎</h1>
+    <h1>WELCOME TO MY CODE WORLD!🌎</h1>
   </div>
 
 - 💻 I’m currently working on backend with PHP and Laravel
