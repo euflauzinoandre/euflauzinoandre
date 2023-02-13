@@ -11,9 +11,9 @@
 
 ## 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euflauzinoandre&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euflauzinoandre&layout=compact&langs_count=16&theme=dark"/>
+<div align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=euflauzinoandre&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euflauzinoandre&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
