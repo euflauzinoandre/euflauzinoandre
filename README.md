@@ -8,15 +8,12 @@
 - 📚 I’m currently learning Fullstack development with HTML, CSS and Javascript
 - 💡 Fun fact: [ ] I'm not a robot!
 
-## 
 
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=euflauzinoandre&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euflauzinoandre&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-
-##
 
 <div style="display: inline_block" align="center"><br>
   <h2>Skills</h2>
@@ -31,7 +28,6 @@
   <img align="center" alt="euflauzinoandre-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </div>
 
-##
 
 <div align="center">
   <h2>Contact</h2>
