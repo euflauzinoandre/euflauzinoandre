@@ -1,8 +1,6 @@
-<head>
-  <div>
+  <div align="center">
     <h1>Welcome to my code world!</h1>
   </div>
-</head>
 
 - 💻 I’m currently working on backend with PHP and Laravel
 - 📚 I’m currently learning Fullstack development with HTML, CSS and Javascript
