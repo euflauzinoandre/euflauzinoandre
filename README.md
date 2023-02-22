@@ -2,9 +2,9 @@
     <h1>WELCOME TO MY CODE WORLD! 🌎</h1>
   </div>
 
-- 💻 I’m currently working on backend with PHP and Laravel
-- 📚 I’m currently learning Fullstack development with HTML, CSS and Javascript
-- 🕹️ League of Legends player
+- 💻 I’m currently working on backend with PHP and Laravel (Blueprint);
+- 📚 Have I studying Fullstack development with HTML, CSS and Javascript... a little MongoDB too!
+- 🕹️ League of Legends player (Silver);
 - 💡 Fun fact: [ ] I'm not a robot!
 
 
