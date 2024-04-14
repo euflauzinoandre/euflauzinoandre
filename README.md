@@ -11,6 +11,8 @@ Computer Engineer, Javascript enthusiast, passionate about technology. Currently
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=euflauzinoandre&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display:block; margin:0 auto; width: 400px; height: 200px;"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=euflauzinoandre&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak Stats" style="display:block; margin:0 auto; width: 400px; height: 200px;"><br/>
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euflauzinoandre&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display:block; margin:0 auto;">
 </div>
 
