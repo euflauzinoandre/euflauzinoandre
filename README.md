@@ -10,10 +10,10 @@ Computer Engineer, Javascript enthusiast, passionate about technology. Currently
 # 📊 GitHub Stats:
 <div align="center"; style="display: flex;">
     <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=euflauzinoandre&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 50%; height: auto;">
+        <img src="https://github-readme-stats.vercel.app/api?username=euflauzinoandre&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=euflauzinoandre&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak Stats" style="width: 50%; height: auto;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=euflauzinoandre&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak Stats" style="width: 100%; height: auto;">
     </div>
 </div>
 <div align="center">
