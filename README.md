@@ -17,4 +17,9 @@ Computer Engineer, Javascript enthusiast, passionate about technology. Currently
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euflauzinoandre&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display:block; margin:0 auto;">
 </div>
 
+##
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=euflauzinoandre&label=Profile%20Views&color=12&icon=2&pretty=false" />
+</a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
