@@ -1,4 +1,4 @@
-# 💫 Hi, I'm André:
+# Hi 👋, I'm André:
 Computer Engineer, Javascript enthusiast, passionate about technology. Currently student at 42 Lisboa, preparing to be a Software Engineer.
 
 
