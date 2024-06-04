@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 # Hi 👋, I'm André:
-Computer Engineer, Linux and Coding enthusiast, passionate about technology. Currently student at 42 Lisboa, preparing to be an IT Specialist.
+Computer Engineer, Linux and Coding enthusiast, passionate about technology. Currently living in Portugal and student at 42 Lisboa, preparing to be an IT Specialist.
 
 
 ## 🌐 Socials:
