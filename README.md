@@ -1,5 +1,5 @@
 # Hi 👋, I'm André:
-Computer Engineer, Javascript enthusiast, passionate about technology. Currently student at 42 Lisboa, preparing to be a Software Engineer.
+Computer Engineer, Linux and Coding enthusiast, passionate about technology. Currently student at 42 Lisboa, preparing to be an IT Specialist.
 
 
 ## 🌐 Socials:
