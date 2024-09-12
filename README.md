@@ -7,7 +7,7 @@ Computer Engineer, Linux and Coding enthusiast, passionate about technology. Cur
 
 <div align="center">
 <br>" It's not over until I win! "
-<br>- Les Brown<br>
+<br>~ Les Brown<br>
 </div>
 
 
