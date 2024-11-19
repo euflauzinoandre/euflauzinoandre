@@ -4,8 +4,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40" weight="40" >
 </div>
 
+
 # Hi 👋, I'm André:
+<div align="justify">
 I'm a Computer Engineer, open source and programming enthusiast, passionate about technology. Currently living in Portugal and studying at 42 Lisboa. I love working with IT, opening, configuring and breaking things, understanding how it works. My current focus is learning about DevOps culture. I want to be the best person and professional I can be. God is my truth and my wife is my life!
+</div>
 
 <div align="center">
 <br>" It's not over until I win! "
