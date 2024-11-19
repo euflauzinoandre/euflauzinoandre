@@ -5,7 +5,7 @@
 </div>
 
 
-# Hi 👋, I'm André:
+# Hi 👋, I'm André!
 <div align="justify">
 I'm a Computer Engineer, open source and programming enthusiast, passionate about technology. Currently living in Portugal and studying at 42 Lisboa. I love working with IT, opening, configuring and breaking things, understanding how it works. My current focus is learning about DevOps culture. I want to be the best person and professional I can be. God is my truth and my wife is my life!
 </div>
@@ -15,9 +15,10 @@ I'm a Computer Engineer, open source and programming enthusiast, passionate abou
 <br>~ Les Brown<br>
 </div>
 
-## 🌐 Socials:
+## 🌐 Contact me:
 <a href="https://www.youtube.com/channel/UC4VIxpz25lRO7_4k5pPKvrA" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andreeuflauzino" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.euflauzino@gmail.com)
 <br>
 
 ## 👨🏻‍💻 Programming Languages:
@@ -34,7 +35,6 @@ I'm a Computer Engineer, open source and programming enthusiast, passionate abou
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-<br>
 
 ## 🛠️ Technologies & Tools:
 <div align="left">
@@ -64,7 +64,6 @@ I'm a Computer Engineer, open source and programming enthusiast, passionate abou
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
 </div>
-<br>
 
 ## 👾 Hobbies:</h2>
 <div align="left">
@@ -75,8 +74,20 @@ I'm a Computer Engineer, open source and programming enthusiast, passionate abou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 </div>
-<br>
 
+## 🚀 Experience:
+- **IT Engineer** (2023 - Present): Responsible for the entire IT park of a construction company.
+- **Web Developer Junior** (2023): Trainee, learning web development with PHP and Laravel.
+- **Service Desk** (2022): Remote IT support, N1 and N2.
+- **ICT Support Analyst** (2016 - 2021): Responsible for the entire IT park in a company that develops software for diagnostic medicine laboratories.
+
+## 📚 Education:
+- **42 Lisbon** (2024 - Present): Computer Programming, focusing on C and software development.
+- **UNIRP** (2019): Computer Engineering.
+
+## 🎯 Certifications:
+- Linux Fundamentals (4Linux)
+- NSE 1 e 2 Network Security Associate (Fortinet)
 
 ## 🔥 My Stats:
 <div align="center">
@@ -84,7 +95,6 @@ I'm a Computer Engineer, open source and programming enthusiast, passionate abou
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euflauzinoandre&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euflauzinoandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 
 ##
 <div align="center">
