@@ -5,7 +5,7 @@
 </div>
 
 # Hi 👋, I'm André:
-I'm a Computer Engineer, open source and programming enthusiast, passionate about technology. Currently living in Portugal and studying at 42 Lisboa. I love working with IT, opening, configuring and breaking things, understanding how it works. My current focus is learning about DevOps culture. God is my truth and my wife is my life!
+I'm a Computer Engineer, open source and programming enthusiast, passionate about technology. Currently living in Portugal and studying at 42 Lisboa. I love working with IT, opening, configuring and breaking things, understanding how it works. My current focus is learning about DevOps culture. I want to be the best person and professional I can be. God is my truth and my wife is my life!
 
 <div align="center">
 <br>" It's not over until I win! "
