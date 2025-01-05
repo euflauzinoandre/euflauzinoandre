@@ -7,12 +7,12 @@
 
 # Hi 👋, I'm André!
 <div align="justify">
-I'm a Computer Engineer, open source and programming enthusiast, passionate about technology. Currently living in Portugal and studying at 42 Lisboa. I love working with IT, opening, configuring and breaking things, understanding how it works. My current focus is learning about DevOps culture. I want to be the best person and professional I can be. God is my truth and my wife is my life!
+I'm a Computer Engineer, open source and programming enthusiast, passionate about technology. Currently living in Portugal, study at 42 Lisboa in 2024. I love working with IT, opening, configuring and breaking things, understanding how it works. My current focus is learning about DevOps culture. I want to be the best person and professional I can be. God is my truth and my wife is my life!
 </div>
 
 <div align="center">
-<br>" It's not over until I win! "
-<br>~ Les Brown<br>
+<br><i>" It's not over until I win! "
+<br>~ Les Brown</i><br>
 </div>
 
 ## 🌐 Contact me:
@@ -21,65 +21,70 @@ I'm a Computer Engineer, open source and programming enthusiast, passionate abou
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.euflauzino@gmail.com)
 <br>
 
-## 👨🏻‍💻 Programming Languages:
+## 👨🏻‍💻 Tech & Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-## 🛠️ Technologies & Tools:
-<div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /> 
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+ <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40" alt="prometheus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-</div>
-
-## 👾 Tech Hobbies:</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
 
 ## 🚀 Experience:
+**[Portugal]** 
 - **IT Engineer** (2023 - Present): Responsible for the entire IT park of a construction company.
+
+**[Brazil]** 
 - **Web Developer Junior** (2023): Trainee, learning web development with PHP and Laravel.
 - **Service Desk** (2022): Remote IT support, N1 and N2.
 - **ICT Support Analyst** (2016 - 2021): Responsible for the entire IT park in a company that develops software for diagnostic medicine laboratories.
 
 ## 📚 Education:
-- **42 Lisbon** (2024 - Present): Computer Programming, focusing on C and software development.
-- **UNIRP** (2019): Computer Engineering.
+- **42 Lisbon, Portugal** (2024): Computer Programming, focusing on C and software development 
+- **Erin School Of English, Dublin/Ireland** (2023): English Exchange 
+- **UNIRP, Brazil** (2016 - 2019): Bachelor's degree in Computer Engineering 
 
+## 🏹 Trainings:
+
+**[LinuxTips]**
+
+- Linux Essentials
+- Docker Essentials
+- Kubernets Esentials
+- Terraform Essentials
+- Python Essentials
+
+<!--
 ## 🎯 Certifications:
-- Linux Fundamentals (4Linux)
-- NSE 1 e 2 Network Security Associate (Fortinet)
+- LPI 1, 2 and 3
+- Docker Certified Associate (DCA)
+- Certified Kubernetes Administrator (CKA)
+- AWS Pratictioner 
+-->
 
 ## 🔥 My Stats:
 <div align="center">
