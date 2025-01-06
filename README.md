@@ -7,7 +7,7 @@
 
 # Hi 👋, I'm André!
 <div align="justify">
-I'm a Computer Engineer, open source and programming enthusiast, passionate about technology. Currently living in Portugal, study at 42 Lisboa in 2024. I love working with IT, opening, configuring and breaking things, understanding how it works. My current focus is learning about DevOps culture. I want to be the best person and professional I can be. God is my truth and my wife is my life!
+I'm a Computer Engineer, open source and programming enthusiast, passionate about technology. Currently living in Portugal, I studied at school 42 Lisboa in 2024. I love working with IT, opening, configuring and breaking things, understanding how it works. My current focus is learning about DevOps culture. I want to be the best person and professional I can be. God is my truth and my wife is my life!
 </div>
 
 <div align="center">
