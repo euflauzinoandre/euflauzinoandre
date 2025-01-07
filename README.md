@@ -71,7 +71,6 @@ I'm a Computer Engineer, open source and programming enthusiast, passionate abou
 ## 🏹 Trainings:
 
 **[LinuxTips]**
-
 - Linux Essentials
 - Docker Essentials
 - Kubernets Esentials
