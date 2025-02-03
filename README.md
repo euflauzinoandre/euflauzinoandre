@@ -10,14 +10,24 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andre.euflauzino@gmail.com) 
 <br>
 
-<div align="left">
+<div align="justify">
+I have a degree in Computer Engineering from Brazil, I have worked with IT for almost 10 years and I am passionate about technology, from the Linux terminal to the latest technologies and I like to venture into the world of programming. In 2023 I went to Dublin with my wife to do an English exchange for 5 months. I currently live in Portugal and work as a Computer Engineer in a construction company in the Algarve. My current focus has been to specialize in DevOps, but my main objective is to be a reference in the IT market.
+</div>
+<br>
+<div align="center">
+"It's not over, until I win!"<br>
+<i>~Les Brown</i>
+</div>
+<br>
+
+<div align="center">
 <a href="https://github.com/euflauzinoandre">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=euflauzinoandre&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euflauzinoandre&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -37,7 +47,7 @@
   <img width="12" />
 -->
  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
+ <img width="12" />
 <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
@@ -52,6 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 -->
 </div>
+
+
 
 ##
 <div align="center">
