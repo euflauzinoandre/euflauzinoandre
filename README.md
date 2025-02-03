@@ -58,6 +58,7 @@ I'm a Computer Engineer, open source and programming enthusiast, passionate abou
 -->
 </div>
 
+<!--
 ## 🚀 Experience:
 **[Portugal]** 
 - **IT Engineer** (2023 - Present): Responsible for the entire IT park of a construction company.
