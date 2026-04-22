@@ -13,7 +13,7 @@ I have a degree in Computer Engineering from Brazil, I have worked with IT for a
 </div>
 
 ## 🛠️ Tech & Tools
-<div>
+<div align="justify">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css3"/>
