@@ -5,6 +5,7 @@
 </div>
 
 ## Hi 👋, I'm André!
+![](https://komarev.com/ghpvc/?username=euflauzinoandre&color=green)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@codezino)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pt.linkedin.com/in/andreeuflauzino)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andre.euflauzino@gmail.com) 
@@ -64,10 +65,3 @@ I have a degree in Computer Engineering from Brazil, I have worked with IT for a
 </div>
 
 
-
-##
-<div align="center">
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feuflauzinoandre%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=drone.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
-</a>
-</div>
