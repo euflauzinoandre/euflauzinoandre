@@ -15,37 +15,21 @@ I have a degree in Computer Engineering from Brazil, I have worked with IT for a
 ## 🛠️ Tech & Tools
 <div align="justify">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css3"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="js"/>
-  <img width="12"/>
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="40" alt="nodejs"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python"/>
-  <img width="12"/>
   <img src="https://devicon-website.vercel.app/api/c/original.svg" height="40" alt="c"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/> 
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="40" alt="vim"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg" height="40" alt="gitkraken"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="notion"/>
-  <img width="12"/>
 </div>
 
 ## 🔥 Status
