@@ -3,7 +3,7 @@
 </div>
 
 ## Hi 👋, I'm André!
-![](https://komarev.com/ghpvc/?username=euflauzinoandre&color=green)
+![](https://komarev.com/ghpvc/?username=euflauzinoandre&color=blue)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@codezino)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pt.linkedin.com/in/andreeuflauzino)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andre.euflauzino@gmail.com) 
@@ -35,6 +35,6 @@ Currently transitioning to software development, with a focus on backend, APIs a
 
 ## 🔥 Status
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euflauzinoandre&theme=dark&show_icons=true&hide_border=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euflauzinoandre&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=euflauzinoandre&theme=transparent&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=euflauzinoandre&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
