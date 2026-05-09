@@ -32,9 +32,3 @@ Currently transitioning to software development, with a focus on backend, APIs a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="notion"/>
 </div>
-
-## 🔥 Status
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=euflauzinoandre&theme=transparent&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=euflauzinoandre&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
