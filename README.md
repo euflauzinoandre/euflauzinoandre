@@ -10,7 +10,7 @@
 
 <div align="justify">
 IT Support Specialist based in Portugal, working with infrastructure, systems and user support across multiple companies.
-Currently transitioning to software development, with a focus on backend, APIs and system integrations.
+Currently transitioning to software development, with a focus on Backend and DevOps practices.
 </div>
 
 ## 🛠️ Tech & Tools
